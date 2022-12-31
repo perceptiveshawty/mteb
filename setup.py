@@ -58,10 +58,10 @@ setup(
     license="Apache",
     author="MTEB Contributors (https://github.com/embeddings-benchmark/mteb/graphs/contributors)",
     author_email="niklas@huggingface.co, nouamane@huggingface.co, info@nils-reimers.de",
-    url="https://github.com/embeddings-benchmark/mteb",
+    url="https://github.com/perceptiveshawty/mteb/",
     project_urls={
         "Huggingface Organization": "https://huggingface.co/mteb",
-        "Source Code": "https://github.com/embeddings-benchmark/mteb",
+        "Source Code": "https://github.com/perceptiveshawty/mteb/",
     },
     packages=find_packages(),
     entry_points={
